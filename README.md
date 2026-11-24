@@ -1,7 +1,7 @@
 # Práctica: Nginx confinado con AppArmor
 
 **Autor:** Felipe Rodríguez Gómez
-**Fecha:** 24/11/2026
+
 
 ## Índice
 
